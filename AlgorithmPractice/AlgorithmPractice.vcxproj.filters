@@ -434,6 +434,9 @@
     <Text Include="..\..\AlgorithmVStudio\Project1\transistor.txt">
       <Filter>리소스 파일</Filter>
     </Text>
+    <Text Include="design_pattern_questions.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitOperation.h">

@@ -1,0 +1,48 @@
+1. creational patterns: abstract factory, builder, factory, prototype, singleton1
+2. structure patterns: adapter, proxy, composite, flyweight, facade, decorator
+3. behavioral patterns: strategy, state, memento, observer, chain of responsibility, template method, visitor, command, mediator
+4. inversion of control:
+5. OCP: open and close principles
+6. In UML, what is alt, option, break?
+7. In UML, how to describe parallel?
+8. Difference between composite and aggregation: composite needs to dispose when composite die
+9. Static binding Vs. Dynamic binding? Static at compile time
+   - how it is used in design pattern? runtime behavior change
+10. memento pattern needs which data structure?
+11. matrix: time wise, resource wise efficiency
+12. architecture style: layered, client-server, p2p, proxy, pub-sub, shared repository, pipe & filter
+13. how to refactoring?
+14. pipe and filter: incoming pipe / outgoing pipe
+15. separation of concern
+16. code smell
+17. SOLID principle
+18. NFR Vs. FR
+19. HAL Vs. SDN
+20. protected metod pros and cons
+21. interface Vs. abstract class
+22. In template design pattern, explain OCP: open: type, close: imple
+23. Flyweight pattern: reduce runtime overhead
+24. Proxy Vs. Mediator?
+25. Proxy pattern OCP? close inferface. open implementation
+26. black board?
+27. In sequence diagram, parallel representation? 
+28. In sequence diagram, condition
+29. overloading Vs. overriding
+30. In memento, care taker?
+31. how to design good interface?
+32. how to define well-designed class or interface?
+33. how to design a good APIs?
+34. state diagram: action, event, guard?
+35. when to use activity diagram
+36. builder Vs. abstract factory?
+37. pipe & filter Vs. batched sequential
+38. micro service Vs. micro kernel
+39. cohesion Vs. coupling
+40. what design pattern good for memory efficiency?
+41. what design pattern good for performance?
+42. Dependency in Conquerer?
+43. Adapter Vs. Proxy?
+44. Solid?
+45. LSP?
+46. c++ interface? pure virtual
+47. 

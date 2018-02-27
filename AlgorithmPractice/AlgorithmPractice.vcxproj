@@ -264,6 +264,7 @@
     <Text Include="..\..\AlgorithmVStudio\Project1\linuxSystem.txt" />
     <Text Include="..\..\AlgorithmVStudio\Project1\transistor.txt" />
     <Text Include="..\..\AlgorithmVStudio\Project1\writing_to_ram.txt" />
+    <Text Include="design_pattern_questions.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitOperation.h" />
