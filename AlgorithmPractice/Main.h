@@ -21,3 +21,4 @@ extern int bitToIntegerTest();
 extern int testCount();
 extern int randomTestMain();
 extern int connectionManagementTest();
+extern int testTSP2();

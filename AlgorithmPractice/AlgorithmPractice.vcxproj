@@ -243,6 +243,7 @@
     <ClCompile Include="template.cpp" />
     <ClCompile Include="templateClassDefinition.cpp" />
     <ClCompile Include="travelingSalesman.cpp" />
+    <ClCompile Include="travelingSalesman2.cpp" />
     <ClCompile Include="Tree.cpp" />
     <ClCompile Include="Unicode.cpp" />
     <ClCompile Include="unique_ptr_advanced.cpp" />
