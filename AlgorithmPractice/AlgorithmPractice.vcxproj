@@ -245,6 +245,7 @@
     <ClCompile Include="travelingSalesman.cpp" />
     <ClCompile Include="travelingSalesman2.cpp" />
     <ClCompile Include="Tree.cpp" />
+    <ClCompile Include="tripleForLoops.cpp" />
     <ClCompile Include="Unicode.cpp" />
     <ClCompile Include="unique_ptr_advanced.cpp" />
     <ClCompile Include="VirtualMemoryAllocator.cpp" />
@@ -266,6 +267,7 @@
     <Text Include="..\..\AlgorithmVStudio\Project1\transistor.txt" />
     <Text Include="..\..\AlgorithmVStudio\Project1\writing_to_ram.txt" />
     <Text Include="design_pattern_questions.txt" />
+    <Text Include="tripleForLoops.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitOperation.h" />

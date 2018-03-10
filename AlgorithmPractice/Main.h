@@ -22,3 +22,5 @@ extern int testCount();
 extern int randomTestMain();
 extern int connectionManagementTest();
 extern int testTSP2();
+extern int testLeaveAbscentCheck();
+extern int testTripleForLoops();
