@@ -399,6 +399,12 @@
     <ClCompile Include="numberDivision.cpp">
       <Filter>소스 파일\algorithmPractice\dynamicProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="josepus.cpp">
+      <Filter>소스 파일\algorithmPractice\dynamicProgramming</Filter>
+    </ClCompile>
+    <ClCompile Include="combinational.cpp">
+      <Filter>소스 파일\algorithmPractice\dynamicProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\AlgorithmVStudio\Project1\writing_to_ram.txt">
@@ -506,6 +512,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Trie.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="combinational.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

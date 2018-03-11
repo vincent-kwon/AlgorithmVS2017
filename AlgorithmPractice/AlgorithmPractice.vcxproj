@@ -162,6 +162,7 @@
     <ClCompile Include="ChainOfResponsibilityPattern.cpp" />
     <ClCompile Include="cine-mach.cpp" />
     <ClCompile Include="classDefinition.cpp" />
+    <ClCompile Include="combinational.cpp" />
     <ClCompile Include="commandPattern.cpp" />
     <ClCompile Include="compositorVisitorPattern.cpp" />
     <ClCompile Include="connection.cpp" />
@@ -195,6 +196,7 @@
     <ClCompile Include="ImplementingCachingProxyServer.cpp" />
     <ClCompile Include="iteratorPattern.cpp" />
     <ClCompile Include="iteratorPatternTest.cpp" />
+    <ClCompile Include="josepus.cpp" />
     <ClCompile Include="lambda.cpp" />
     <ClCompile Include="leaveAbsentCheck.cpp" />
     <ClCompile Include="LinkedList.cpp" />
@@ -274,6 +276,7 @@
     <ClInclude Include="BitOperation.h" />
     <ClInclude Include="CircularQueue.h" />
     <ClInclude Include="classDeclaration.h" />
+    <ClInclude Include="combinational.h" />
     <ClInclude Include="connection.h" />
     <ClInclude Include="connectionPool.h" />
     <ClInclude Include="DoubleLinkedList.h" />

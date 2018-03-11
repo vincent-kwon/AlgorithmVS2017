@@ -25,3 +25,5 @@ extern int testTSP2();
 extern int testLeaveAbscentCheck();
 extern int testTripleForLoops();
 extern void testNumberDivision();
+extern void testJosepus();
+extern void testCombinational();
