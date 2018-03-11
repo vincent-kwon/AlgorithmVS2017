@@ -216,6 +216,7 @@
     <ClCompile Include="MovieRecommendationAlgorithm.cpp" />
     <ClCompile Include="narray-tree-traversal.cpp" />
     <ClCompile Include="npuzzle.cpp" />
+    <ClCompile Include="numberDivision.cpp" />
     <ClCompile Include="observerPattern.cpp" />
     <ClCompile Include="OnScreenKeypad.cpp" />
     <ClCompile Include="overridding_const_dest.cpp" />
