@@ -162,6 +162,7 @@
     <ClCompile Include="ChainOfResponsibilityPattern.cpp" />
     <ClCompile Include="cine-mach.cpp" />
     <ClCompile Include="classDefinition.cpp" />
+    <ClCompile Include="combinational.cpp" />
     <ClCompile Include="commandPattern.cpp" />
     <ClCompile Include="compositorVisitorPattern.cpp" />
     <ClCompile Include="connection.cpp" />
@@ -195,6 +196,7 @@
     <ClCompile Include="ImplementingCachingProxyServer.cpp" />
     <ClCompile Include="iteratorPattern.cpp" />
     <ClCompile Include="iteratorPatternTest.cpp" />
+    <ClCompile Include="josepus.cpp" />
     <ClCompile Include="lambda.cpp" />
     <ClCompile Include="leaveAbsentCheck.cpp" />
     <ClCompile Include="LinkedList.cpp" />
@@ -216,6 +218,7 @@
     <ClCompile Include="MovieRecommendationAlgorithm.cpp" />
     <ClCompile Include="narray-tree-traversal.cpp" />
     <ClCompile Include="npuzzle.cpp" />
+    <ClCompile Include="numberDivision.cpp" />
     <ClCompile Include="observerPattern.cpp" />
     <ClCompile Include="OnScreenKeypad.cpp" />
     <ClCompile Include="overridding_const_dest.cpp" />
@@ -245,6 +248,7 @@
     <ClCompile Include="travelingSalesman.cpp" />
     <ClCompile Include="travelingSalesman2.cpp" />
     <ClCompile Include="Tree.cpp" />
+    <ClCompile Include="tripleForLoops.cpp" />
     <ClCompile Include="Unicode.cpp" />
     <ClCompile Include="unique_ptr_advanced.cpp" />
     <ClCompile Include="VirtualMemoryAllocator.cpp" />
@@ -266,11 +270,13 @@
     <Text Include="..\..\AlgorithmVStudio\Project1\transistor.txt" />
     <Text Include="..\..\AlgorithmVStudio\Project1\writing_to_ram.txt" />
     <Text Include="design_pattern_questions.txt" />
+    <Text Include="tripleForLoops.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitOperation.h" />
     <ClInclude Include="CircularQueue.h" />
     <ClInclude Include="classDeclaration.h" />
+    <ClInclude Include="combinational.h" />
     <ClInclude Include="connection.h" />
     <ClInclude Include="connectionPool.h" />
     <ClInclude Include="DoubleLinkedList.h" />
